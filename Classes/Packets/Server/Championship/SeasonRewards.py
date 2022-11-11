@@ -14,7 +14,6 @@ class SeasonRewards(PiranhaMessage):
     def encode(self, fields, player):
         pass
     	
-
     def decode(self):
         return {}
 
