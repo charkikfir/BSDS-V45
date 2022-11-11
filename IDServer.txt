@@ -1,0 +1,18 @@
+Card ID
+Sam - 499
+Gus - 507
+
+Shop ID 
+Sam - 60
+Gus - 61
+
+Themes
+47 - Mecha Mortis Event
+48 - Moon Festival22
+49 - Brawloween22
+50 - Robot Factory
+
+Offer Themes
+offer_robotfactory - robot factory
+offer_mecha - mecha
+offer_brawloween22 - brawloween 2022

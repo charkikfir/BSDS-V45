@@ -1,0 +1,29 @@
+{
+  "Offers": [
+    {
+      "RewardsCount": 1,
+      "Rewards": [
+        {
+          "ItemType": 3,
+          "Amount": 0,
+          "CsvID1": 16,
+          "CsvID2": 60,
+          "SkinID": 852
+        }
+      ],
+      "Currency": 1,
+      "Cost": 0,
+      "Time": 86400,
+      "Claim": false,
+      "DailyOffer": false,
+      "OldPrice": 0,
+      "Text": "ОСОБАЯ АКЦИЯ!",
+      "Background": "offer_robotfactory",
+      "Processed": false,
+      "TypeBenefit": 2,
+      "Benefit": 0,
+      "OneTimeOffer": false,
+      "Claimed": false
+    }
+  ]
+}
