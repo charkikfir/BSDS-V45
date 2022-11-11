@@ -10,7 +10,6 @@ class SeasonRewards(PiranhaMessage):
         super().__init__(messageData)
         self.messageVersion = 0
         
-
     def encode(self, fields, player):
         pass
     	
