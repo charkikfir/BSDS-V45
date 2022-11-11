@@ -19,4 +19,4 @@ Server ZIP: https://github.com/CrazorTheCat/BSDS-V44/archive/refs/heads/master.z
 
 ## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder of the apk ##
 
-![bsdsv45](https://user-images.githubusercontent.com/52799759/176961091-0fe7c802-5ad5-433e-9e36-edec5545f492.png)
+![bsdsv45](https://cdn.discordapp.com/attachments/1040608064681803827/1040617898772811866/Screenshot_20221111_192221.jpg)
