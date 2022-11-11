@@ -2,7 +2,7 @@ Brawl Stars V45 MOD! Client by Speigen
 
 Discord link : https://discord.gg/kcVzmSTP58
 
-ANDROID 1 (GOOGLE DRIVE) : https://drive.google.com/file/d/1zKy632blJDJV7YuBnUZe18Pxpra2lvm5/view?usp=sharing
+ANDROID 1 (GOOGLE DRIVE) : https://drive.google.com/file/d/1MU-VBmJU54B9K6GtbvwjYA1QMvTx0fW9/view?usp=drivesdk
 
 Server ZIP: https://codeload.github.com/LekmaDev/BSDS-V45/zip/refs/heads/main
 
