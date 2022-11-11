@@ -1,10 +1,8 @@
-Brawl Stars V45 by MOD! Client by Speigen
+Brawl Stars V45 MOD! Client by Speigen
 
-Discord link : https://discord.gg/mt4dUxXryh
+Discord link : https://discord.gg/kcVzmSTP58
 
-ANDROID 1 (MEDIAFIRE) : https://www.mediafire.com/file/biid9ttuhiyeaoi/com.projectbsds.v44226.apk/file
-
-ANDROID 2 (GOOGLE DRIVE) : https://drive.google.com/file/d/1zKy632blJDJV7YuBnUZe18Pxpra2lvm5/view?usp=sharing
+ANDROID 1 (GOOGLE DRIVE) : https://drive.google.com/file/d/1zKy632blJDJV7YuBnUZe18Pxpra2lvm5/view?usp=sharing
 
 Server ZIP: https://codeload.github.com/LekmaDev/BSDS-V45/zip/refs/heads/main
 
