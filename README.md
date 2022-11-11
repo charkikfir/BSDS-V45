@@ -1,3 +1,5 @@
+Brawl Stars V45 by MOD! Client by Speigen
+
 Discord link : https://discord.gg/mt4dUxXryh
 
 ANDROID 1 (MEDIAFIRE) : https://www.mediafire.com/file/biid9ttuhiyeaoi/com.projectbsds.v44226.apk/file
